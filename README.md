@@ -100,4 +100,5 @@ Do load the contract up at Remix with the address from deployed_addresses.txt an
 3) Transactions are "pending" forever 
 
 
-For some reason, when using Uport to sign the transaction, it will be "pending" forever. As it was working before, it seems to be some bug that appears on 27 August either on UPort's or Infura's side.
+For some reason, when using Uport to sign the transaction, it will be "pending" forever. As it was working before, it seems to be some bug on UPort.
+If you encounter this, please see the following github to use the version without UPort transaction signing `https://github.com/weeeelye/ProofOfExistenceDappNoUport`
