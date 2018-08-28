@@ -2,7 +2,7 @@
 
 This is a proof of existence dapp. It uses the truffle box react-uport boiler plate.
 
-![Flowchart here](https://raw.githubusercontent.com/weeeelye/ProofOfExistenceDapp/master/flowchart.png)
+![Flowchart here](https://raw.githubusercontent.com/weeeelye/ProofOfExistenceDapp/master/flowchart.png?)
 
 The web UI provides a way for the user to upload their document data (Hashes, and other data like file name, file data type).
 
