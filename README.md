@@ -39,7 +39,7 @@ To run it on localhost, please do the following:
 - Only `truffle test` works on localhost
 
 ### Running on Rinkeby
-To run it on Rinkeby, please do the follow:
+To run it on Rinkeby, please do the following:
 - Get at least 2 Rinkeby accounts with some Eth from the Rinkeby faucet. (For truffle test)
 - Send some Eth to your UPort account
 - Edit `truffle.js` set the `from:` param to your account
